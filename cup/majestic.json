@@ -1,6 +1,6 @@
 {
-    "name": "ariella",
-    "title": "Ariella Cup",
+    "name": "majestic",
+    "title": "Majestic Cup",
 	"include": [{
         "filterType": "type",
         "values": ["fairy","ice","psychic","ghost","water","normal"]
