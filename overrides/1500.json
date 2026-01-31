@@ -9,7 +9,7 @@
     "speciesId": "abomasnow_shadow",
     "fastMove": "LEAFAGE",
     "chargedMoves": ["WEATHER_BALL_ICE","ENERGY_BALL"],
-    "weight": 10
+    "weight": 1
   },
   {
     "speciesId": "amaura",
@@ -32,6 +32,10 @@
     "speciesId": "araquanid",
     "chargedMoves": ["WATER_PULSE","BUBBLE_BEAM"],
     "weight": 1
+  },
+  {
+    "speciesId": "arctibax",
+    "weight": 3
   },
   {
     "speciesId": "armaldo",
@@ -62,6 +66,10 @@
     "fastMove": "THUNDER_SHOCK",
     "chargedMoves": ["DISCHARGE","PARABOLIC_CHARGE"],
     "weight": 1
+  },
+  {
+    "speciesId": "bibarel",
+    "weight": 15
   },
   {
     "speciesId": "boldore",
@@ -104,6 +112,10 @@
     "fastMove": "THUNDER_SHOCK",
     "chargedMoves": ["PARABOLIC_CHARGE","PLAY_ROUGH"],
     "weight": 1
+  },
+  {
+    "speciesId": "drampa",
+    "weight": 3
   },
   {
     "speciesId": "drifblim",
@@ -228,8 +240,8 @@
   },
   {
     "speciesId": "golisopod",
-    "fastMove": "FURY_CUTTER",
-    "weight": 5
+    "fastMove": "SHADOW_CLAW",
+    "weight": 7
   },
   {
     "speciesId": "gourgeist_average",
@@ -255,7 +267,7 @@
   },
   {
     "speciesId": "gyarados_shadow",
-    "weight": 1
+    "weight": 14
   },
   {
     "speciesId": "hatterene",
@@ -283,11 +295,11 @@
   },
   {
     "speciesId": "kingdra",
-    "weight": 10
+    "weight": 8
   },
   {
     "speciesId": "kingdra_shadow",
-    "weight": 3
+    "weight": 1
   },
   {
     "speciesId": "kleavor",
@@ -297,11 +309,11 @@
   },
   {
     "speciesId": "lapras",
-    "weight": 10
+    "weight": 1
   },
   {
     "speciesId": "lapras_shadow",
-    "weight": 5
+    "weight": 1
   },
   {
     "speciesId": "lickilicky",
@@ -314,7 +326,7 @@
   },
   {
     "speciesId": "ludicolo",
-    "weight": 5
+    "weight": 7
   },
   {
     "speciesId": "luxray",
@@ -335,7 +347,7 @@
   {
     "speciesId": "mamoswine_shadow",
     "chargedMoves": ["ICICLE_SPEAR","STONE_EDGE"],
-    "weight": 1
+    "weight": 5
   },
   {
     "speciesId": "marowak_alolan",
@@ -387,7 +399,7 @@
   {
     "speciesId": "piloswine",
     "chargedMoves": ["ICICLE_SPEAR", "STONE_EDGE"],
-    "weight": 1
+    "weight": 8
   },
   {
     "speciesId": "piloswine_shadow",
@@ -403,7 +415,7 @@
     "speciesId": "primarina",
     "fastMove": "CHARM",
     "chargedMoves": ["DISARMING_VOICE","HYDRO_CANNON"],
-    "weight": 1
+    "weight": 3
   },
   {
     "speciesId": "pumpkaboo_average",
@@ -426,6 +438,10 @@
     "speciesId": "quagsire_shadow",
     "chargedMoves": ["MUD_BOMB","STONE_EDGE"],
     "weight": 1
+  },
+  {
+    "speciesId": "qwilfish",
+    "weight": 5
   },
   {
     "speciesId": "raichu",
@@ -475,7 +491,7 @@
   {
     "speciesId": "runerigus",
     "chargedMoves": ["BRUTAL_SWING","ROCK_TOMB"],
-    "weight": 8
+    "weight": 10
   },
   {
     "speciesId": "sableye",
@@ -489,6 +505,11 @@
     "weight": 1
   },
   {
+    "speciesId": "shiinotic",
+    "chargedMoves": ["SEED_BOMB","SLUDGE_BOMB"],
+    "weight": 3
+  },
+  {
     "speciesId": "skeledirge",
     "fastMove": "INCINERATE",
     "chargedMoves": ["SHADOW_BALL","DISARMING_VOICE"],
@@ -496,7 +517,8 @@
   },
   {
     "speciesId": "slowking_galarian",
-    "weight": 8
+    "fastMove": "ACID",
+    "weight": 12
   },
   {
     "speciesId": "slurpuff",
@@ -512,7 +534,7 @@
   },
   {
     "speciesId": "starmie",
-    "weight": 5
+    "weight": 3
   },
   {
     "speciesId": "sudowoodo",
@@ -534,19 +556,19 @@
   },
   {
     "speciesId": "tentacruel",
-    "weight": 10
+    "weight": 1
   },
   {
     "speciesId": "togekiss",
     "fastMove": "PECK",
     "chargedMoves": ["PSYSHOCK","AURA_SPHERE"],
-    "weight": 6
+    "weight": 14
   },
   {
     "speciesId": "togetic",
     "fastMove": "FAIRY_WIND",
-    "chargedMoves": ["PSYSHOCK","DAZZLING_GLEAM"],
-    "weight": 4
+    "chargedMoves": ["DAZZLING_GLEAM","PSYSHOCK"],
+    "weight": 10
   },
   {
   	"speciesId":  "toxtricity",
@@ -556,7 +578,7 @@
   },
   {
     "speciesId": "trevenant_shadow",
-    "weight": 3
+    "weight": 1
   },
   {
     "speciesId": "typhlosion_hisuian",
@@ -590,7 +612,7 @@
     "speciesId": "weezing_galarian_shadow",
     "fastMove": "FAIRY_WIND",
     "chargedMoves": ["BRUTAL_SWING","SLUDGE"],
-    "weight": 5
+    "weight": 1
   },
   {
     "speciesId": "zapdos",
